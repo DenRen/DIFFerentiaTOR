@@ -1,5 +1,3 @@
-//#include <cstdio>
-//#include <MyLib2.h>
 #include "TreeDiff.h"
 
 int main () {
@@ -9,7 +7,6 @@ int main () {
     char string_in[] = "(x)^(x)";
 
     if (tree.read_expression (string_in)) {
-        //PRINT_ERROR ("Failed to read tree from file")
         perror ("Failed to read tree from file");
         return 0;
     }
@@ -17,7 +14,6 @@ int main () {
     Dump_Tree_img (tree.node);
 
     if (!Tree::Optimizer (tree.node)) {
-        //PRINT_ERROR ("Error optimizer")
         perror ("Error optimizer");
         return 0;
     }
@@ -29,14 +25,7 @@ int main () {
         perror ("Error copy");
         return 0;
     }
-    /*
-    Dump_Tree_img (diff_tree.node);
-
-    if (!diff_tree.Optimizer (diff_tree.node)) {
-        PRINT_ERROR ("Error optimizer")
-        return 0;
-    }
-    */
+    
     Dump_Tree_img (diff_tree.node);
 
     Dump_Tree_Tex (diff_tree.node, name_TeX_file);
