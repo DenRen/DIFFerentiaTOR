@@ -84,6 +84,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/tester/Documents/GitHub/DIFFerentiaTOR/Diff_Names.h">
+			<Option target="DIFFerentiaTOR"/>
+		</Unit>
+		<Unit filename="/home/tester/Documents/GitHub/DIFFerentiaTOR/TreeDiff.cpp">
+			<Option target="DIFFerentiaTOR"/>
+		</Unit>
+		<Unit filename="/home/tester/Documents/GitHub/DIFFerentiaTOR/TreeDiff.h">
+			<Option target="DIFFerentiaTOR"/>
+		</Unit>
 		<Unit filename="/home/tester/Documents/GitHub/DIFFerentiaTOR/main.cpp">
 			<Option target="DIFFerentiaTOR"/>
 		</Unit>

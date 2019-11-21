@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.30)  21 NOV 2019 22:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.30)  22 NOV 2019 02:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -208,67 +208,32 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-! Missing $ inserted.
-<inserted text> 
-                $
-l.8 ...x)*(x)))*(((x)*(x))*((x)*(x))))))))))*((x)^
-                                                  (x)))+((((-1)/((x)*(x)))+(...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 8.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-! Missing $ inserted.
-<inserted text> 
-                $
-l.9 \end{document}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (170.73029pt too wide) in paragraph at lines 8--9
-[]\OT1/cmr/m/n/12 ((((((((0)-((-1)*((x)+(x))))/(((x)*(x))*((x)*(x))))+((((0)-((
--1)*((x)+(x))))/(((x)*(x))*((x)*(x))))+((((0)-
- []
-
-
-Overfull \hbox (244.8198pt too wide) in paragraph at lines 8--9
-\OT1/cmr/m/n/12 ((-1)*((x)+(x))))/(((x)*(x))*((x)*(x))))+((((0)-((-1)*((x)+(x))
-))/(((x)*(x))*((x)*(x))))+((x)*((((2)*(((x)*(x))*((x)*(x))))-
- []
-
-
-Overfull \hbox (298.38531pt too wide) in paragraph at lines 8--9
-\OT1/cmr/m/n/12 (((0)-((-1)*((x)+(x))))*((((x)+(x))*((x)*(x)))+(((x)*(x))*((x)+
-(x))))))/((((x)*(x))*((x)*(x)))*(((x)*(x))*((x)*(x))))))))))*((x)$[]\OML/cmm/m/
-it/12 x\OT1/cmr/m/n/12 ))) +
- []
-
-[1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./MyLaTeX.aux) ) 
 Here is how much of TeX's memory you used:
  2366 strings out of 492982
  31300 string characters out of 6134896
- 92639 words of memory out of 5000000
+ 93639 words of memory out of 5000000
  5904 multiletter control sequences out of 15000+600000
  8285 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,25p,1924b,111s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,4n,25p,1853b,111s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MyLaTeX.pdf (1 page, 34059 bytes).
+Output written on MyLaTeX.pdf (1 page, 33397 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream

@@ -3,4 +3,4 @@ project(DIFFerentiaTOR)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(DIFFerentiaTOR main.cpp)
+add_executable(DIFFerentiaTOR main.cpp TreeDiff.h TreeDiff.cpp Diff_Names.h)
